@@ -1,0 +1,122 @@
+@media (max-width: 575px){
+    .upper-header{
+        text-align: center;
+    }
+    .upper-header .row div:last-of-type{
+        text-align: center;
+        margin-top: 5px;
+    }
+    .upper-header .row div:last-of-type span:last-of-type {
+        margin-left: 50px;
+    }
+    .navbar .collapse li a{
+        font-size: 16px;
+        margin: 0;
+    }
+    .slider .carousel-inner .overlay h1{
+        font-size: 22px;
+    }
+    .slider .carousel-inner .overlay h1 span{
+        margin-bottom: 6px;
+    }
+    .our-projects ul li {
+        margin-bottom: 5px;
+    }
+    .latest-posts .card {
+        margin-top: 25px;
+    }
+    .testimonials .carousel .carousel-inner .carousel-item .carousel-caption p{
+        font-size: 15px;
+        padding: 0 50px;
+    }
+    .contact-us p{
+        margin-bottom: 25px
+    }
+    .footer .address{
+        margin-top: 40px;
+    }
+    .footer-bar{
+        text-align: center;
+    }
+    .footer-bar .container > div{
+        float: none !important;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .upper-header{
+        text-align: center;
+    }
+    .upper-header .row div:last-of-type{
+        text-align: center;
+        margin-top: 5px;
+    }
+    .upper-header .row div:last-of-type span:last-of-type {
+        margin-left: 50px;
+    }
+    .navbar .collapse li a{
+        font-size: 16px;
+        margin: 0;
+    }
+    .slider .carousel-inner .overlay h1{
+        font-size: 35px;
+    }
+    .slider .carousel-inner .overlay h1 span{
+        margin-bottom: 10px;
+    }
+    .our-projects ul li {
+        margin-bottom: 5px;
+    }
+    .latest-posts .card {
+        margin-top: 25px;
+        padding: 0 15px;
+    }
+    .testimonials .carousel .carousel-inner .carousel-item .carousel-caption p{
+        font-size: 15px;
+        padding: 0 50px;
+    }
+    .pricing-table .card{
+        width: 16rem !important;
+    }
+    .contact-us p{
+        margin-bottom: 25px
+    }
+    .footer .address{
+        margin-top: 40px;
+    }
+    .footer-bar{
+        text-align: center;
+    }
+    .footer-bar .container > div{
+        float: none !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar .collapse li a{
+        font-size: 16px;
+        margin: 0;
+    }
+    .slider .carousel-inner .overlay h1{
+        font-size: 45px;
+    }
+    .our-projects ul li {
+        font-size: 12px;
+    }
+    .latest-posts .card {
+        padding: 0 15px;
+    }
+    .pricing-table .card{
+        width: 14rem !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .our-projects ul li {
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 1200px){
+    
+}
