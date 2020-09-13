@@ -25,9 +25,15 @@
     .latest-posts .card {
         margin-top: 25px;
     }
+    .carousel-control-next{
+        margin-right: 0;
+    }
+    .carousel-control-prev{
+        margin-left: 0;
+    }
     .testimonials .carousel .carousel-inner .carousel-item .carousel-caption p{
         font-size: 15px;
-        padding: 0 50px;
+        padding: 0 0px;
     }
     .contact-us p{
         margin-bottom: 25px
